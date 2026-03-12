@@ -2,9 +2,9 @@
 
 # Keith Evans | Senior Full-Stack Engineer
 
-Senior Full-Stack Engineer with over 15 years of experience building secure, scalable SaaS platforms and cloud-native applications. My primary expertise is in designing high-performance backend systems using C# and ASP.NET Core deployed on Microsoft Azure, where I focus on reliable API architectures and production-ready distributed services.
+I'm a **Senior Full-Stack Engineer** with over **15** years of experience building secure, scalable SaaS platforms and cloud-native applications. My primary expertise is in designing high-performance backend systems using **C#** and **ASP.NET Core** deployed on **Microsoft Azure**, where I focus on reliable API architectures and production-ready distributed services.
 
-I also work across the full stack, building service layers with Node.js and Python using FastAPI while delivering modern user experiences using React and Next.js. My work often involves designing scalable data architectures using PostgreSQL, MongoDB, and Supabase, ensuring systems remain performant, maintainable, and ready to evolve as products grow.
+I also work across the full stack, building service layers with **Node.js** and **Python** using **FastAPI** while delivering modern user experiences using **React** and **Next.js**. My work often involves designing scalable data architectures using **PostgreSQL**, **MongoDB**, and **Supabase**, ensuring systems remain performant, maintainable, and ready to evolve as products grow.
 
 ## Engineering Focus
 
