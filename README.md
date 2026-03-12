@@ -46,22 +46,6 @@ Migrated legacy ASP.NET applications into modern ASP.NET Core architectures to i
 ### AI-Enabled Systems
 Worked on AI-driven automation platforms integrating intelligent workflows, analytics services, and Python-based processing pipelines.
 
-## Development Philosophy
-
-My engineering approach centers on:
-
-- Clean and maintainable architecture
-- Cloud-first platform design
-- Scalable database modeling
-- Reliable CI/CD deployment processes
-- Long-term system stability
-
-I focus on building systems that are not only functional but durable, capable of supporting evolving business needs and long-term product growth.
-
-## Tech Stack
-
-C# • ASP.NET Core • Node.js • Python • FastAPI • React • Next.js • Angular • TypeScript • Azure • Docker • PostgreSQL • MongoDB • Supabase
-
 ## Current Focus
 
 Currently building modern platforms across:
