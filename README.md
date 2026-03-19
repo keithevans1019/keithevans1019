@@ -2,10 +2,6 @@
 
 # Keith Evans | Senior Full-Stack Engineer
 
-<p align="center">
-Senior Full-Stack Engineer • Cloud Architect • SaaS Builder
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -13,27 +9,26 @@ Senior Full-Stack Engineer • Cloud Architect • SaaS Builder
 I'm a **Senior Full-Stack Engineer** with over **15 years of experience** building secure, scalable SaaS platforms and cloud-native applications.
 
 My primary expertise is in designing **high-performance backend systems** using  
-<img src="https://img.shields.io/badge/C%23-1e1e2f?style=flat-square&logo=c-sharp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/ASP.NET_Core-1e1e2f?style=flat-square&logo=.net&logoColor=white"/>  
+![C#](https://img.shields.io/badge/C%23-black?style=flat&logo=c-sharp)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-black?style=flat&logo=dotnet)
 deployed on  
-<img src="https://img.shields.io/badge/Microsoft_Azure-1e1e2f?style=flat-square&logo=microsoft-azure&logoColor=white"/>  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat&logo=microsoft-azure)
 
 where I focus on reliable API architectures and production-ready distributed services.
 
 I also work across the full stack, building service layers with  
-<img src="https://img.shields.io/badge/Node.js-1e1e2f?style=flat-square&logo=node.js&logoColor=green"/> 
-<img src="https://img.shields.io/badge/Python-1e1e2f?style=flat-square&logo=python&logoColor=yellow"/> 
-using  
-<img src="https://img.shields.io/badge/FastAPI-1e1e2f?style=flat-square&logo=fastapi&logoColor=green"/>  
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi)
 
 while delivering modern user experiences using  
-<img src="https://img.shields.io/badge/React-1e1e2f?style=flat-square&logo=react&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/Next.js-1e1e2f?style=flat-square&logo=next.js&logoColor=white"/>  
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
 
 My work often involves designing scalable data architectures using  
-<img src="https://img.shields.io/badge/PostgreSQL-1e1e2f?style=flat-square&logo=postgresql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MongoDB-1e1e2f?style=flat-square&logo=mongodb&logoColor=green"/> 
-<img src="https://img.shields.io/badge/Supabase-1e1e2f?style=flat-square&logo=supabase&logoColor=green"/>  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=flat&logo=supabase)
 
 ensuring systems remain performant, maintainable, and ready to evolve as products grow.
 
@@ -49,64 +44,62 @@ ensuring systems remain performant, maintainable, and ready to evolve as product
 
 ---
 
-## 🛠️ Core Technologies
+## 🛠 Core Technologies
 
 ### Backend
-<img src="https://img.shields.io/badge/C%23-1e1e2f?style=flat-square&logo=c-sharp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/ASP.NET_Core-1e1e2f?style=flat-square&logo=.net&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-1e1e2f?style=flat-square&logo=node.js&logoColor=green"/> 
-<img src="https://img.shields.io/badge/NestJS-1e1e2f?style=flat-square&logo=nestjs&logoColor=red"/> 
-<img src="https://img.shields.io/badge/Python-1e1e2f?style=flat-square&logo=python&logoColor=yellow"/> 
-<img src="https://img.shields.io/badge/FastAPI-1e1e2f?style=flat-square&logo=fastapi&logoColor=green"/>  
+![C#](https://img.shields.io/badge/C%23-black?style=flat&logo=c-sharp)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-black?style=flat&logo=dotnet)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=flat&logo=nestjs)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi)
 
 ---
 
 ### Frontend
-<img src="https://img.shields.io/badge/React-1e1e2f?style=flat-square&logo=react&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/Next.js-1e1e2f?style=flat-square&logo=next.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Angular-1e1e2f?style=flat-square&logo=angular&logoColor=red"/> 
-<img src="https://img.shields.io/badge/TypeScript-1e1e2f?style=flat-square&logo=typescript&logoColor=blue"/>  
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-black?style=flat&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
 
 ---
 
 ### Cloud & Infrastructure
-<img src="https://img.shields.io/badge/Azure-1e1e2f?style=flat-square&logo=microsoft-azure&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Docker-1e1e2f?style=flat-square&logo=docker&logoColor=blue"/>  
+![Azure](https://img.shields.io/badge/Azure-black?style=flat&logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
 
 ---
 
 ### Data Platforms
-<img src="https://img.shields.io/badge/PostgreSQL-1e1e2f?style=flat-square&logo=postgresql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MongoDB-1e1e2f?style=flat-square&logo=mongodb&logoColor=green"/> 
-<img src="https://img.shields.io/badge/Supabase-1e1e2f?style=flat-square&logo=supabase&logoColor=green"/>  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=flat&logo=supabase)
 
 ---
 
-## 🏗️ System Architecture Experience
+## ⚙️ System Architecture Experience
 
 ### SaaS Platform Development
-Designed and contributed to multi-tenant SaaS systems powering analytics platforms, enterprise dashboards, and data-driven applications.
+Designed multi-tenant SaaS systems powering analytics platforms and enterprise dashboards.
 
 ### API & Backend Services
-Built high-performance RESTful APIs supporting automation workflows, distributed frontends, and large-scale data services.
+Built high-performance RESTful APIs for distributed systems and automation workflows.
 
-### Legacy System Modernization
-Migrated legacy ASP.NET applications into modern ASP.NET Core architectures to improve scalability, deployment reliability, and long-term maintainability.
+### Legacy Modernization
+Migrated legacy ASP.NET apps to modern ASP.NET Core architectures.
 
 ### AI-Enabled Systems
-Worked on AI-driven automation platforms integrating intelligent workflows, analytics services, and Python-based processing pipelines.
+Developed AI-driven platforms using Python pipelines and intelligent workflows.
 
 ---
 
 ## 🔭 Current Focus
 
 - Enterprise SaaS systems  
-- Analytics and data platforms  
+- Data & analytics platforms  
 - Fintech infrastructure  
 - AI-enabled applications  
 
 ---
 
-<p align="center">
-💡 Full-Stack Engineering • Cloud Architecture • Scalable SaaS Platforms
-</p>
+### 💡 Full-Stack Engineering • Cloud Architecture • Scalable SaaS Platforms
